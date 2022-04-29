@@ -1,0 +1,2 @@
+# Mechacell Fonts
+The Mechacell font is based on the Pixel Operator font, the "source code" of which is available [here](https://notabug.org/HarvettFox96/ttf-pixeloperator). The original font is under the CC0 license meaning that this font is also under the CC0 license. The offical license can be seen [here](https://notabug.org/HarvettFox96/ttf-pixeloperator/src/master/LICENSE).
