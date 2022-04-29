@@ -6,6 +6,8 @@ If you have an issue relating to Mechacell, please open an issue by clicking on 
 
 Feature requests can also be opened by clicking on the issues tab. Make sure you select `Feature Request` when creating the issue. Note that there is no guarantee that a feature will be implemented.
 
+**Having an issue with modding is not a bug!** If you need any help with modding, go to the discussions tab and we will help you as soon as possible!
+
 ## Wiki
 The offical Mechacell **technical** wiki can be view by clicking on the "wiki" tab above. If you want to see the wiki for the game itself, just use the encyclopedia built into Mechacell.
 
