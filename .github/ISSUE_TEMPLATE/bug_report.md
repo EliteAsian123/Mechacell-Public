@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: Title of bug (e.g. Settings Button Doesn't Work)
-labels: Bug Report
+labels: 'Tag: Bug Report'
 assignees: EliteAsian123
 
 ---
