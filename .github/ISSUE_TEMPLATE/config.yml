@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Modding Help
+    url: https://github.com/EliteAsian123/Mechacell-Public/discussions/categories/developer-questions
+    about: If you have a question about modding DO NOT CREATE A ISSUE! Please use the discussions tab.
