@@ -1,6 +1,9 @@
 # Mechacell
 Mechacell has not released yet and this is thus a dummy repository.
 
+## Save Issues
+If you are having save issues in Mechacell, click on the "discussions" tab above. You will need a Github account. Click "New discussion" and then set the category to "🚩 Save Issues." Write a title and a short description of the issue you are having, and wait for someone to help. You may need to give more information on the save depending on the issue.
+
 ## Issues and Feature Requests
 If you have an issue relating to Mechacell, please open an issue by clicking on the "issues" tab above. You will need a Github account.
 
