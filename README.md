@@ -11,9 +11,6 @@ Feature requests can also be opened by clicking on the issues tab. Make sure you
 
 **Having an issue with modding is not a bug!** If you need any help with modding, go to the discussions tab and we will help you as soon as possible!
 
-## Wiki
-The offical Mechacell **technical** wiki can be view by clicking on the "wiki" tab above. If you want to see the wiki for the game itself, just use the encyclopedia built into Mechacell.
-
 ## License
 Copyright &copy; 2022 EliteAsian.
 
