@@ -1,0 +1,7 @@
+apiRules:
+- include:
+    hasAttribute:
+      uid: Mechacell.Document
+    type: Type
+- exclude:
+    type: Type

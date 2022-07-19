@@ -1,0 +1,81 @@
+{
+	"metadata": [
+		{
+			"src": [
+				{
+					"src": "../../Mechacell/",
+					"files": [
+						"*.csproj"
+					]
+				}
+			],
+			"globalNamespaceId": "Mechacell",
+			"filter": "filterConfig.yml",
+			"dest": "api"
+		}
+	],
+	"build": {
+		"globalMetadata": {
+			"_appTitle": "Mechacell Documentation",
+			"_appFooter": "Mechacell Documentation",
+			"_enableSearch": true,
+			"_disableContribution": true
+		},
+		"content": [
+			{
+				"files": [
+					"toc.yml",
+					"index.md"
+				]
+			},
+			{
+				"src": "api",
+				"files": [
+					"*.yml"
+				],
+				"dest": "api"
+			},
+			{
+				"src": "tutorials",
+				"files": [
+					"toc.yml",
+					"*.md",
+					"**/*.md"
+				],
+				"dest": "tutorials"
+			},
+			{
+				"src": "other",
+				"files": [
+					"toc.yml",
+					"*.md",
+					"**/*.md"
+				],
+				"dest": "other"
+			}
+		],
+		"resource": [
+			{
+				"files": [
+					"resources/**/*"
+				]
+			}
+		],
+		"sitemap": {
+			"baseUrl": "https://eliteasian123.github.io/Mechacell-Public/",
+			"changefreq": "weekly",
+			"fileOptions": {
+				"api/*": {
+					"changefreq": "weekly"
+				}
+			}
+		},
+		"xref": [
+			"https://normanderwan.github.io/UnityXrefMaps/xrefmap.yml"
+		],
+		"xrefService": [
+			"https://xref.docs.microsoft.com/query?uid={uid}"
+		],
+		"dest": "../docs"
+	}
+}

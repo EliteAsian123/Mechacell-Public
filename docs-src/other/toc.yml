@@ -1,0 +1,8 @@
+- name: Reservations
+  items:
+    - name: SpriteRenderer "Order in Layer"
+      href: reservations/order-in-layer.md
+- name: Lore
+  items:
+    - name: BƵƂΣ Ɛ ƂSGΣL (Language of The Sorcerer)
+      href: lore/language-of-the-sorcerer.md
