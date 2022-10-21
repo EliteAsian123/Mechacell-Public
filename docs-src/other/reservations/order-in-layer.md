@@ -17,7 +17,7 @@ Commonly used layers are in bold.
 | `5` | Player Cell |
 | `6` | Player Cosmetic Lights |
 | `7` | Player Dirt |
-| `8` | **Virus-Like Entity** |
+| `8` | **Middleground Entity** |
 | `9` | Unconstructed Weapons |
 | `10` | Weapon Base |
 | `11` | Weapon Cosmetic Lights |

@@ -50,6 +50,7 @@ Definition in English (approximate): The Sorcerer, The Great One, The One, The K
 Notes: 
 - *Mustn't be used in a vulgar way or you will be punished by The One themself...*
 - Appears on The Sorcerer's projections and The Sorcerer.
+
 <hr/>
 
 **BƵƂΣ** (noun)<br/>
@@ -58,6 +59,7 @@ Definition in English (approximate): Language; words that have meaning.
 
 Notes:
 - Has sacred meaning to ones who speak the language.
+
 <hr/>
 
 **TL** (adjective)<br/>
@@ -66,16 +68,19 @@ Definition in English (approximate): Dead, deathly.
 
 Notes:
 - Offensive
+
 <hr/>
 
 **BƂ** (pronoun)<br/>
 Pronunciation: `/bəxə/` [b-uh-`/x/`-uh] <br/>
 Definition in English: You.
+
 <hr/>
 
 **GƂ** (pronoun)<br/>
 Pronunciation: `/məxə/` [m-uh-`/x/`-uh] <br/>
 Definition in English (approximate): Me, I.
+
 <hr/>
 
 **CGΣ** (tense)<br/>
@@ -84,6 +89,7 @@ Definition in English (approximate): Will, are about to, are going to.
 
 Notes:
 - Future tense.
+
 <hr/>
 
 **LGΣ** (tense)<br/>
@@ -92,6 +98,7 @@ Definition in English (approximate): Did, already.
 
 Notes:
 - Past tense.
+
 <hr/>
 
 **ƵGΣ** (tense)<br/>
@@ -100,6 +107,7 @@ Definition in English (approximate): Is now, presently.
 
 Notes:
 - Present tense.
+
 <hr/>
 
 **GΣ** (tense)<br/>
@@ -108,11 +116,13 @@ Definition in English (approximate): At any time, did happen but time unknown.
 
 Notes:
 - Unknown tense.
+
 <hr/>
 
 **TS** (adjective)<br/>
 Pronunciation: `/təðə/` [t-uh-th-uh] <br/>
 Definition in English (approximate): Moved, moving (in a molecular manner).
+
 <hr/>
 
 **CLƂG** (adjective)<br/>
